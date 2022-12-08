@@ -11,7 +11,6 @@
 
     - title: Our Bots
       color: 0xdfdfdf
-      description: "<@876278900836139008> is our first and most popular bot. She's a multi-purpose bot, meaning she'll do everything you need. Moderation, role selection and more. Lily is canonically transfem and uses she/her or it/its pronounce. To add her to your server, use [this link](https://discord.com/api/oauth2/authorize?client_id=876278900836139008&permissions=1151990787078&scope=bot%20applications.commands).\n\n<@1013045351852298280> is the second bot in our collection. Developed primarily by <@596106961691607040>, it is a Minecraft focused bot, that allows you to search Modrinth, translate mappings and more! To add Allium to your server, use [this link](https://canary.discord.com/api/oauth2/authorize?client_id=1013045351852298280&permissions=347136&scope=bot%20applications.commands)\n\n<@998623790844088350> keeps and eye on bots to make sure they're all up and running. You can provide bots for SaffronStatus to watch and it'll let you know whenever it goes down, but sending a message in a programed channel. Saffron can also ping a role depending on if you set one or not.\n\nThat's all our bots for now, but we promise more are coming soon. See the `Roadmap` embed below for more information."
 
     - title: Our Rules
       color: 0x000000
@@ -19,15 +18,14 @@
 
 - type: rules
   rules:
-    Be decent to one another.: We are all human. Any and all forms of bigotry, harassment, doxing, exclusionary, or otherwise abuusive behavior will not be tolerated. Excessive rudeness, impatience, and hostility are not welcome. Do not rage out or make personal attacks against other people. Do not encourage users to brigade/raid other communities.
-    Keep chat clean.: Do not spam text, images, user mentions, emojis, reactions, or anything else. Do not post offensive, obscene, politically charged, or sexually explicit content. Avoid using vulgar language and excessive profanity. Uploading or directly linking to executable files is not allowed without prior approval.
-    Keep channels on-topic.: Avoid heavily engaging in topics outside their appropriate channels. Discussion of topics not related to HyacinthBots should take place in our general chats only. These chats are also the best place to talk when a more specific channel doesn't exist.
-    Understand that support is not guaranteed.: Support will be provided on a best-effort basis. If someone cannot help you, avoid becoming angry or lashing out. Instead, wait for someone else who may be able to help you. We're all volunteers here, and real life always comes first.
+    Be decent to one another: We are all human. Any and all forms of bigotry, harassment, doxing, exclusionary, or otherwise abusive behavior will not be tolerated. Excessive rudeness, impatience, and hostility are not welcome. Do not rage out or make personal attacks against other people. Do not encourage users to brigade/raid other communities.
+    Keep chat clean: Do not spam text, images, user mentions, emojis, reactions, or anything else. Do not post offensive, obscene, politically charged, or sexually explicit content. Avoid using vulgar language and excessive profanity. Uploading or directly linking to executable files is not allowed without prior approval.
+    Keep channels on-topic: Avoid heavily engaging in topics outside their appropriate channels. Discussion of topics not related to HyacinthBots should take place in our general chats only. These chats are also the best place to talk when a more specific channel doesn't exist.
+    Understand that support is not guaranteed: Support will be provided on a best-effort basis. If someone cannot help you, avoid becoming angry or lashing out. Instead, wait for someone else who may be able to help you. We're all volunteers here, and real life always comes first.
 
 - type: links
   title: Useful links
   links:
-    Website (Coming soon:tm:): https://www.urbandictionary.com/define.php?term=soon%E2%84%A2
     GitHub: https://github.com/HyacinthBots
     Twitter: https://twitter.com/HyacinthBots
     Buymeacoffee: https://buymeacoffee.com/HyacinthBots
