@@ -27,13 +27,15 @@
 - type: embed
   embeds:
     - description: "We will respond to rule violations at our own discretion. If you have an issue with another user in this server, please report it to a moderator privately. If you see rule breaking behavior, please mention our moderator role in the channel in which the violation occurred.\n\nThese rules were last updated on December 8th, 2022 and are based on the rules for Discord communities of CaffeineMC and The Iris Project."
-      color: 0x00ff37
+      color: 0x00ffc8
 
     - title: Roadmap
-      description: "We have many plans for both the near and distant future. For each of our bots, many of these plans can be found on their respective GitHub issue trackers. Some larger plans that we'd like you all to know about include:\n- A website for everything HyacinthBots related\n- More and better docs for our existing bots\n- A brand new bot focused on Minecraft and Minecraft related development\n- Another brand new bot that will provide modmail functionality"
+      description: "We have many plans for both the near and distant future. For each of our bots, many of these plans can be found on their respective GitHub issue trackers. Some larger plans that we'd like you all to know about include:\n- A website for everything HyacinthBots related\n- More and better docs for our existing bots\n- Another brand new bot that will provide modmail functionality"
+      color: 0x00aaff
 
 - type: links
   title: Useful links
+  color: 0x001eff
   links:
     Website (Coming soon): ""
     GitHub: https://github.com/HyacinthBots
@@ -42,6 +44,7 @@
     Discord: https://discord.gg/hy2329fcTZ
 
 - type: roles
+  color: 0x7300ff
   id: roles
   title: Available roles
   template: "**•** {MENTION}"
@@ -61,6 +64,7 @@
       emoji: 🚨
 
 - type: roles
+  color: 0xff00ff
   id: pronoun-roles
   title: Pronoun roles
   template: "**»** {MENTION}"
