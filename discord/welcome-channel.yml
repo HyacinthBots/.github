@@ -36,8 +36,9 @@
 - type: links
   title: Useful links
   color: 0x001eff
+  template: "**•** [{TEXT}]({URL})"
   links:
-    Website (Coming soon): ""
+    Website (Coming soon:tm:): ""
     GitHub: https://github.com/HyacinthBots
     Twitter: https://twitter.com/HyacinthBots
     Buymeacoffee: https://buymeacoffee.com/HyacinthBots
@@ -67,7 +68,7 @@
   color: 0xff00ff
   id: pronoun-roles
   title: Pronoun roles
-  template: "**»** {MENTION}"
+  template: "**•** {MENTION}"
 
   roles:
     985630628710072400:
