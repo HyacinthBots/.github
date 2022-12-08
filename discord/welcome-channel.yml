@@ -36,7 +36,7 @@
 - type: links
   title: Useful links
   links:
-    Website (Coming soon): ""
+    Website (Coming soon:tm:): https://www.urbandictionary.com/define.php?term=soon%E2%84%A2
     GitHub: https://github.com/HyacinthBots
     Twitter: https://twitter.com/HyacinthBots
     Buymeacoffee: https://buymeacoffee.com/HyacinthBots
@@ -50,21 +50,17 @@
   roles:
     987252024313790475:
       description: Be notified of any important information that concerns our bots
-      emoji: 📣
     987119150952497192:
       description: Be notified about new releases of our bots, as and when they come out
-      emoji: 🎁
     987119203662311466:
       description: Be notified about new devlog posts made by our team
-      emoji: 📖
     987119284192936007:
       description: Be notified of any active/schedule downtime for our bots
-      emoji: 🚨
 
 - type: roles
   id: pronoun-roles
   title: Pronoun roles
-  template: "**»** {MENTION}"
+  template: "**•** {MENTION}"
 
   roles:
     985630628710072400:
