@@ -8,8 +8,8 @@ any and all bots immediately. Usage begins when the bot is invited to the server
 
 Bots affected by these terms are:
 
-* [LilyBot](https://github.com/IrisShaders/LilyBot)
-* [Lily watchdog](https://github.com/HyacinthBots/Lily-watchdog)
+* [LilyBot](https://github.com/HyacinthBots/LilyBot)
+* [Lily watchdog](https://github.com/HyacinthBots/watchdog)
 
 ## Disclaimer
 
@@ -42,5 +42,4 @@ As a general term across all bots **you may not:**
 
 If you wish to contact us regarding anything, please join the [Development Discord Server](https://discord.gg/hy2329fcTZ) 
 and ask away. If you have any urgent concerns or requests that need more privacy, please email `hyacinthbots@outlook.com`
-or send a direct message on Discord to `NoComment#6411` or `tempest#4510`. If neither NoComment nor tempest are available, 
-please message `IMS#7902`.
+or send a direct message on Discord to `NoComment1105`.
