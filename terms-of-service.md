@@ -10,6 +10,7 @@ Bots affected by these terms are:
 
 * [LilyBot](https://github.com/HyacinthBots/LilyBot)
 * [Lily watchdog](https://github.com/HyacinthBots/watchdog)
+* [Sus Detector](https://github.com/HyacinthBot/Sus-Detector)
 
 ## Disclaimer
 
